@@ -1,0 +1,15 @@
+# Ignore drivers and binaries
+chromedriver-win64/
+*.exe
+
+# Ignore non-essential datasets
+data/*.jpg
+data/market_data_cleaned.csv
+samsung_revenue.csv
+
+# Ignore raw scripts
+scrape_*.py
+
+# OS/editor garbage
+__pycache__/
+.vscode/
