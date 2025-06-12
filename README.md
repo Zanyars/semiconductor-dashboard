@@ -1,16 +1,26 @@
 # 📊 Top 10 Semiconductor Companies – Revenue Dashboard
 
-This project is a simple, interactive dashboard built with **Streamlit** to explore annual revenue data for the top 10 semiconductor companies in the world. Revenue data is extracted from [companiesmarketcap.com](https://companiesmarketcap.com/) using Python and web scraping tools.
+[![Streamlit App](https://img.shields.io/badge/View%20Live%20App-Streamlit-brightgreen?logo=streamlit)](https://dashboard-semiconductor-revenue.streamlit.app/)
+
+This project is a simple, interactive dashboard built with **Streamlit** to explore annual revenue data for the top 10 semiconductor companies in the world.  
+Revenue data is extracted from [companiesmarketcap.com](https://companiesmarketcap.com/) using Python and web scraping tools.
 
 ---
 
 ## 🚀 Features
 
-- View yearly revenue trends for selected companies
-- Compare revenue performance across multiple years
-- Filter by year range and companies
-- Download the filtered dataset as a CSV
-- Clean UI built using Streamlit with Plotly charts
+- 📈 View yearly revenue trends per company
+- 🔍 Filter by year range and selected companies
+- 📊 Compare annual growth rates visually
+- 💾 Download filtered data as CSV
+- 🧼 Clean, user-friendly Streamlit UI with Plotly charts
+
+---
+
+## 🖼️ Screenshot
+
+![App Screenshot](screenshots/screenshot.png)  
+> Add your app screenshot here and save it as `screenshot.png` in the root folder.
 
 ---
 
@@ -23,6 +33,7 @@ semiconductor-equipment-dashboard/
 ├── requirements.txt           # Python dependencies
 ├── .gitignore
 ├── README.md
+├── screenshot.png             # App screenshot
 └── data/
     └── logo.png               # Logo for sidebar
 ```
@@ -32,4 +43,4 @@ semiconductor-equipment-dashboard/
 Experimental physicist with a passion for data science and visualization.
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/zanyar-salami-5707b581/)
-- 💻 [GitHub](https://github.com/Zanyars)
+- 💻 [GitHub](https://github.com/Zanyarsalami)
