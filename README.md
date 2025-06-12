@@ -19,7 +19,7 @@ Revenue data is extracted from [companiesmarketcap.com](https://companiesmarketc
 
 ## 🖼️ Screenshot
 
-![App Screenshot](screenshots/screenshot.png)  
+![App Screenshot](screenshots/screenshot.PNG)  
 > Add your app screenshot here and save it as `screenshot.png` in the root folder.
 
 ---
